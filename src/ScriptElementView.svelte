@@ -9,7 +9,7 @@
     {#if element instanceof Italics}
         <span>{element.text}</span>
     {:else if element instanceof StageQueue}
-        [<span class="stage-queue">{element.text.substring(1, element.text.length - 1)}</span>]
+        <span class="stage-queue">[<i>{element.text.substring(1, element.text.length - 1)}</i>]</span>
     {:else if element instanceof ParentElement}
         <span class="parent">
             {#each element.children as child}
@@ -35,6 +35,6 @@
     }
 
     .stage-queue {
-        font-style: italic;
+        color: rgb(106, 106, 106);
     }
 </style>
