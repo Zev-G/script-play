@@ -3,7 +3,7 @@ export const script =
 $Act 1 The Prologue
 {CHORUS}: What’s alchemy? The hoax of charlatans? Or mystic quest for stuff of life itself: eternal search for the Philosopher’s Stone, where mingling and unmingling opposites, transforms base metals into precious gold. Hence, scientific metaphor of self: divide the mind’s opposing archetypes — if you possess the courage for the task — invite them from the shadows to the light; unite these lurking shards of broken glass into a mirror that reflects one soul. And in this merging of unconscious selves, there lies the mystic “marriage of true minds.”
 [He takes the discarded objects from the wastebasket and replaces them on the desk as:]
-Swift Mercury, that changing elemen, portrayed as Gemini, hermaphrodite and twin, now steers the stars of Constsance Ledbelly, and offers her a double-edged re-birthday.
+Swift Mercury, that changing element, portrayed as Gemini, hermaphrodite and twin, now steers the stars of Constsance Ledbelly, and offers her a double-edged re-birthday.
 [He picks up the Manuscript from the wastebasket and replaces it on the desk. An unintelligible inscription on the cover is now apparent]
 Here is the key to the Philosopher’s Stone —
 [Indicates Manuscript]
@@ -22,8 +22,6 @@ $Act 1 Scene 1
 {STUDENT}: Of the month.
 {CONSTANCE}: Oh. [STUDENT hands essay back to CONSTANCE]
 {STUDENT}: I know it's a week past the due date but [Lying] you remember the extension you gave me, eh? 
-CONSTANCE STUDENT CONSTANCE STUDENT CONSTANCE STUDENT CONSTANCE 
-STUDENT 
 {CONSTANCE}: I did?
 {STUDENT}: Yes, because I've been ill lately. [Cough-cough]
 {CONSTANCE}: Oh yes, well, whatever, that's fine.
@@ -60,7 +58,7 @@ STUDENT
 {OTHELLO}: *Good, good! The justice of it pleases. Very good! Now art thou my lieutenant.*
 {IAGO}: *I am your own forever.* [OTHELLO and IAGO embrace, then exit]
 {CONSTANCE}: - but we cannot help suspect that all might still so easily be set to rights; and there's the rub! For it is this suspicion which corrupts our pure experience of fear and pity at a great man's great plight, and — by the end of the handkerchief scene — threatens to leave us, frankly ... irritated. [CONSTANCE sips her beer just as the door bursts open. Another young female student, RAMONA, stands in the door-way', all business and very assertive]
-{RAMONA}: High Professor, my name is Ramona.
+{RAMONA}: Hi Professor, my name is Ramona.
 {CONSTANCE}: I'm not actually — I'm, I'm just an Assistant Professor. [CONSTANCE suddenly remembers her beer, and conceals it]
 {RAMONA}: Oh. Well, I wonder if you could pass on a message to Claude for me.
 {CONSTANCE}: Claude? Oh, you mean Professor Night?
@@ -115,8 +113,8 @@ STUDENT
 {CONSTANCE}: [Beet red] In point of fact sir, I took the liberty of dedicating it to myself.
 {CLAUDE}: That's awfully sweet of you Connie. [Looks at essay] Tsk tsk tsk your hand gets more cryptic all the time. Like the tracks of some tiny green creature. I do wish you'd learn to type, my dear. I'm weary of doing my own typing, and I daren't trust anyone else with our little secret.
 {CONSTANCE}: I'm working on it sir, but my fine motor skills are really poor.
-{CLAUDE}: [Still scanning the essay] Indeed. I'm ready for my next assignment Professor. 
-{CONSTANCE}: I've sharpened my nib to a killing point. [They share a malicious chuckle]
+{CLAUDE}: [Still scanning the essay] Indeed.
+{CONSTANCE}:  I'm ready for my next assignment Professor. I've sharpened my nib to a killing point. [They share a malicious chuckle]
 {CLAUDE}: And dipped it in venom to paralyze the academic foe with one poisonous phrase? [More chuckling]
 {CONSTANCE}: Just name your victim.
 {CLAUDE}: Connie. There remains but one thing you can do for me.
@@ -142,7 +140,7 @@ STUDENT
 {CONSTANCE}: I'd love to but . . . that's my birthday . . . and I planned on going to the zoo.
 {CLAUDE}: Birthday eh? Chalk up another one for the Grim Reaper. Still twenty-nine and holding are we? Well, many happy re-runs. [Chuckle] I've got to dash. I'm addressing the Literary Society this evening — which reminds me! [But CONSTANCE has anticipated him, and hands him another sheaf of inky green foolscap]
 {CONSTANCE}: Here's your speech.
-{CLAUDE}: Thanks old girl. [He tugs the porn-porn on her toque then exits with:] Oxford ho! [CONSTANCE slowly pulls off her toque and drops it into the wastebasket. She is in shock. This is the nadir of her passage on this earth]
+{CLAUDE}: Thanks old girl. [He tugs the pom-pom on her toque then exits with:] Oxford ho! [CONSTANCE slowly pulls off her toque and drops it into the wastebasket. She is in shock. This is the nadir of her passage on this earth]
 {CONSTANCE}: Regina. I hate the prairies. They're flat. It's an absolute nightmare landscape of absolutes and I'm a relativist, I'll go mad. Diamonds are a girl's best friend. Diamonds are harder than a bed of nails. I can't feel anything. I'm perfectly fine. I'll call the Dean and resign. I'll go back to my apartment and watch the plants die and let the cats copulate freely. I'll order in groceries. Eventually I'll be evicted. I'll smell really bad and swear at people on the subway. Five years later I run into Professor Night and Ramona: they don't recognize me. I'm selling pencils. They buy one. Suddenly, I drop dead. They discover my true identity. I'm awarded my doctorate posthumously. Professor Night dedicates his complete works to me and lays roses on my grave every day. My stone bears a simple epithet: "Oh what a noble mind is here o'erthrown." . . . There's no time to lose! I have to start right now if I'm going to sink that low in five years. [Grabs phone, dials] Hello, give me the office of the Dean! . . . Oh yes, I'll hold. [While holding, she surveys the objects on her desk, picks them up one by one, addresses them, then tosses them into the wastebasket] The bronze wings that my Brownie pack gave me. [Reads inscription] "To the best Brown Owl in the forest." I flew up more girls than any Brown Owl other than Lady Baden Powell. [Toss. Picks up a jar that contains something like an anchovy] My appendix. It was removed in the summer of love when the rest of my family went to Expo '67. The doctor gave it to me in this baby food jar. He thought it would cheer me up. It did. [Toss. Takes the plumed fountain pen from behind her ear] The fountain pen I made from my parakeet, Laurel. She used to sing "Volare." She fell five stories and died instantly. [Goes to toss it away, but cannot bear to do so. She replaces it behind her ear, where it stays for the rest of the play. Picks up the Manuscript] And this — my fool's gold. Silent mocking oracle. I'll do the world a favour. [CONSTANCE goes to toss it in the wastebasket but her gesture is suddenly arrested in midair and she stares, spell-bound, at the inscription on the cover. Harp music and light effects. She blinks and tries to focus, as though the inscrip-tion were swimming before her eyes with a disorienting effect. CONSTANCE reads the inscription aloud:] "You who possess the eyes to see this strange and wondrous alchemy, where words transform to vision'ry, where one plus two makes one, not three; open this book if you agree to be illusion's refugee, and of return no guarantee —unless you find your true identity. And discover who the Author be." [CONSTANCE hesitates for a moment, then opens the Manuscript. Pages fall out. Warp]
 {CHORUS}: You've witnessed an impossible event: a teacher, spinster — "old maid," some would say — whose definition of fun and excitement is a run of "ibids" in an essay, disappears before your very eyes. Suspend your disbelief. Be foolish wise. For anything is possible, you'll find, within the zone of the unconscious mind. [His head disappears back into the wastebasket. During the scene change]
 {IAGO}: *Think, my lord?*
@@ -162,10 +160,10 @@ $Act 2 Scene 1
 {IAGO}: *That’s fouler*
 {OTHELLO}: *Get me some poison, Iago, this night.*
 {IAGO}: *Do it not with poison. [IAGO hands a pillow to OTHELLO] Strangle her in bed.*
-{CONSTANCE}: No! [Both OTHELLO and TACO turn and stare at her, amazed] Um . . . you're about to make a terrible mistake .. . m'Lord. [Shocked, and at a loss for words to explain her statement, CONSTANCE gathers her courage and timidly approaches IAGO] Excuse me please. [She plucks the handkerchief from IAGO’s hose and gives it to OTHELLO]
+{CONSTANCE}: No! [Both OTHELLO and IAGO turn and stare at her, amazed] Um . . . you're about to make a terrible mistake .. . m'Lord. [Shocked, and at a loss for words to explain her statement, CONSTANCE gathers her courage and timidly approaches IAGO] Excuse me please. [She plucks the handkerchief from IAGO’s hose and gives it to OTHELLO]
 {OTHELLO}: Desdemona's handkerchief! [To IAGO] Which thou didst say she gave to Cassio!
 {IAGO}: Did I say that? What I meant to say —
-{OTHELLO}: O-o-o! I see that nose of thine, but not that dog I shaft throw it to!
+{OTHELLO}: O-o-o! I see that nose of thine, but not that dog I shall throw it to!
 {IAGO}: My lord, I can explain —
 {CONSTANCE}: Omigod, what have I done? [She grabs the handkerchief from OTHELLO and tries unsuccessfully to stuff it back into IAGO'S pocket] Look, just forget you ever saw me here, okay?! [She grabs the pillow and offers it to OTHELLO] Here. [OTHELLO ignores the pillow and proceeds to bind and threaten IAGO] [Aside] I've wrecked a masterpiece. I've ruined the play, I've turned Shakespeare's Othello to a farce. O Jesus, they've got swords! And this is Cyprus; there's a war on here! O please wake up. Please be a dream. I've got to get back home! Back to my cats. They'll starve. They'll eat the plants. They'll be so lonely. [To OTHELLO] Please! I've got to go! Where's the exit!? 
 
@@ -254,7 +252,7 @@ $Act 2 Scene 1
 {DESDEMONA}: Fool's cap?
 {CONSTANCE}: About yea long, and written in a code; they fell into the garbage. So did I.
 {DESDEMONA}: This Garbage, be it ocean, lake or sea?
-{CONSTANCE}: ... A sea then — if you like — Sargasso Sca.
+{CONSTANCE}: ... A sea then — if you like — Sargasso Sea.
 {DESDEMONA}: I'll call this quest mine own, my constant friend. Though I should drown in deep Sargasso Sea, I'll find thine unknown Author and Fool's Cap, *for I do love thee! And when I love thee not, chaos is come again.* [A cannon blast. CONSTANCE is badly startled. Battle cries within] 
 The infidel! This volley heralds battle with the Turk. Let's to the sea wall and enjoy the fray!
 {CONSTANCE}: Oh no, I can't. I can't stand violence.
@@ -267,7 +265,8 @@ The infidel! This volley heralds battle with the Turk. Let's to the sea wall and
 {DESDEMONA}: So will we both. And we be women; not mice. Come go with me. 
 {CONSTANCE}: Okay, I'll be right there. 
 [DESDEMONA exits] They can't use real blood, can they? [Another cannon blast] 
-Omigod! Oh Constance, don't be scared, it's just a play, and Desdcmona will look after you. Desdemona! I am verging on the greatest academic breakthrough of the twentieth century! I merely must determine authorship. But have I permanently changed the text? — You're floundering in the waters of a flood; the Mona Lisa and a babe float by. Which one of these two treasures do you save? I've saved the baby, and let the Mona drown — Or did the Author know that I'd be coming here, and leave a part for me to play? How am I cast? As cast-away to start, but what's my role? I entered, deus ex machina, and Desdemona will not die, because I dropped in from the sky ... Does that make this a comedy? And does it prove my thesis true? In that case, I've preempted the Wise Fool! He must be here somewhere — I'll track him down and reinstate him in the text, and then I'll know who wrote this travesty, since every scholar worth her salt agrees, the Fool is the mouthpiece of the Author! It's all so strange ... What's even stranger though —[She counts the beats of her speech by tapping each of the five fingers of one hand onto the palm of the other, in time with her words] I speak in blank verse like the characters: unrhymed iambical pentameter. It seems to come quite nat'rally to me. I feel so eloquent and . . . [Making up the missing beats] eloquent. My god. Perhaps I'm on an acid trip. What if some heartless student spiked my beer?! [Stops counting] Nonsense. This is my head, this is my pen, this is Othello, Act III, Scene iii. [Sounds of the fray within] {DESDEMONA}: [Within] Constance, the fray!
+Omigod! Oh Constance, don't be scared, it's just a play, and Desdcmona will look after you. Desdemona! I am verging on the greatest academic breakthrough of the twentieth century! I merely must determine authorship. But have I permanently changed the text? — You're floundering in the waters of a flood; the Mona Lisa and a babe float by. Which one of these two treasures do you save? I've saved the baby, and let the Mona drown — Or did the Author know that I'd be coming here, and leave a part for me to play? How am I cast? As cast-away to start, but what's my role? I entered, deus ex machina, and Desdemona will not die, because I dropped in from the sky ... Does that make this a comedy? And does it prove my thesis true? In that case, I've preempted the Wise Fool! He must be here somewhere — I'll track him down and reinstate him in the text, and then I'll know who wrote this travesty, since every scholar worth her salt agrees, the Fool is the mouthpiece of the Author! It's all so strange ... What's even stranger though —[She counts the beats of her speech by tapping each of the five fingers of one hand onto the palm of the other, in time with her words] I speak in blank verse like the characters: unrhymed iambical pentameter. It seems to come quite nat'rally to me. I feel so eloquent and . . . [Making up the missing beats] eloquent. My god. Perhaps I'm on an acid trip. What if some heartless student spiked my beer?! [Stops counting] Nonsense. This is my head, this is my pen, this is Othello, Act III, Scene iii. [Sounds of the fray within]
+{DESDEMONA}: [Within] Constance, the fray!
 {CONSTANCE}: Desdemon, I obey! [CONSTANCE dashes off toward DESDEMONA'S yoke] 
 
 $Act 2 Scene 2
@@ -284,7 +283,7 @@ $Act 2 Scene 2
 {CONSTANCE}: He's Professor Claude Night. 
 {DESDEMONA}: What harm to thee? 
 {CONSTANCE}: I used to work for him. For ten years I ... assisted him, by writing. Some articles he would have writ himself, had he the time, but he's a busy man. Now he's got tenure and an Oxford post I hoped was meant for me.
-{DESDEMONA}: Ten years of ghostly writing for a thief? Thy mind bath proved a cornucopia to slake the glutton, sloth, and he hath cooked his stolen feast on thy Promethean heat.
+{DESDEMONA}: Ten years of ghostly writing for a thief? Thy mind hath proved a cornucopia to slake the glutton, sloth, and he hath cooked his stolen feast on thy Promethean heat.
 {CONSTANCE}: You really think so?
 {DESDEMONA}: Ay! Thou wast in thrall; ten years an inky slave in paper chains!
 {CONSTANCE}:Yeah.
@@ -308,7 +307,7 @@ $Act 2 Scene 2
 {CONSTANCE}: You are magnificent! Othello should make you his lieutenant. You're capable of greatness, Desdemona. [Enter the SOLDIER]
 {SOLDIER}: What ho! What ho! What ho! What ho! What ho! Othello, warrior and raconteur, would see my lady pedant post-post-haste, in discourse touching secrets of the state.
 {CONSTANCE}: Oh, okay. Bye.
-{DESDEMONA}: Commend me to my lord. [IAGO enters as CONSTANCE and the SOLDIER exit. He sneaks up behind DESDEMONA with his bucket. She sniffs the air] What putrefaction haunts the island air? Belle the slaughtered entrails of our meal?
+{DESDEMONA}: Commend me to my lord. [IAGO enters as CONSTANCE and the SOLDIER exit. He sneaks up behind DESDEMONA with his bucket. She sniffs the air] What putrefaction haunts the island air? Belike the slaughtered entrails of our meal?
 {IAGO}: My lady.
 {DESDEMONA}: O Iago! And so low?
 {IAGO}: But that the love I bear my lord forbids, I'd howl of treachery that tumbled me from officer, to sweeper of his sewers.
@@ -333,7 +332,7 @@ $Act 2 Scene 2
 {DESDEMONA}: …cheese? …mouse? — lion? — in his lap? … to eat there? — What?! Think’st thou I’d make a life of jealousy?
 {IAGO}: I would I did suspect more harlotry.
 {DESDEMONA}: Go to, thou knave! [DESDEMONA goes to strike IAGO]
-{IAGO}: O monstrous sword! Take note, take note, O world, to be direct and honest is not safe. [He goes to exit]
+{IAGO}: O monstrous world! Take note, take note, O world, to be direct and honest is not safe. [He goes to exit]
 {DESDEMONA}: Nay stay. Thou shouldst be honest.
 {IAGO}: I obey.
 {DESDEMONA}: And give the worst of thoughts the worst of words. 
@@ -384,8 +383,8 @@ $Act 2 Scene 2
 {OTHELLO}: The demon fell and bled a sea of inky green.
 {CONSTANCE}: Alas.
 {DESDEMONA}: She mourns a beast of Turkish Antioch!
-{OTHELLO}: I left the thing for dead, as I made haste to find a shallow spot and ford my ox. Your ox?
-{CONSTANCE}: Ford, your ox? [Aside] I'm having deja-vu. I think we'd better leave each other now. Your wife may come and think that something's up. 
+{OTHELLO}: I left the thing for dead, as I made haste to find a shallow spot and ford my ox.
+{CONSTANCE}: Your ox? Ford, your ox? [Aside] I'm having deja-vu. I think we'd better leave each other now. Your wife may come and think that something's up. 
 {IAGO}: We know what's up, and who will soon go down.
 {DESDEMONA}: Adultress! Let me stone her in the square!
 {OTHELLO}: Adieu friend, I'll have more of thee anon. [OTHELLO embraces CONSTANCE Vigorously]
@@ -403,7 +402,8 @@ $Act 2 Scene 2
 {CONSTANCE}: Tsk, tsk, tsk, well I'm not surprised. I saw you talking to that creep, Iago —
 {DESDEMONA}: "Creep"?
 {CONSTANCE}: Colloquial for, "base and noisome knave." I'd stay away from him if I were you.
-{DESDEMONA}: Wherefore? Hast thou some secret knowledge of him? {CONSTANCE}: Oh yes. You'd be surprised how much I know.
+{DESDEMONA}: Wherefore? Hast thou some secret knowledge of him?
+{CONSTANCE}: Oh yes. You'd be surprised how much I know.
 {DESDEMONA}: I think not I think thou know'st my husband.
 {CONSTANCE}: I know some things I hope you'll never know.
 {DESDEMONA}: What passed between my lord and thee just now?
@@ -885,7 +885,6 @@ $Act 3 Scene The Epilogue
 
 {CHORUS}: The alchemy of ancient hieroglyphs has permeated the unconscious mind of Constance L. and manifested form, where there was once subconscious dreamy thotiglii The best of friends and foes exist within, where archetypal shadows come to light and doff their monster masks when we say "boo" Where mingling and unmingling opposites performs a wondrous feat of alchemy, and spins grey matter, into precious gold. 
 [Lights and music. The company dances]
-
 `;
 
 export default function process(text): ScriptElement[] {
