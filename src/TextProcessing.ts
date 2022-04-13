@@ -785,7 +785,7 @@ $Act 3 Scene 7
 {JULIET}: O most forbidden love of all! 
 {CONSTANCE}: Oh no. 
 {JULIET}: Unsanctified desire, more tragic far than any star-crossed love 'twixt boy and girl! 
-CONSTANCE}: Now wait. 
+{CONSTANCE}: Now wait. 
 {JULIET}: Once more am I a virgin maid. O take me to thine island's curved shore, and lay me on the bosom of the sand; there sing to me the psalm that Sappho wrote; her hymn to love will be our Song of Songs. 
 {CONSTANCE}: I'm not up on Sappho. 
 {JULIET}: Then we'll compose an epic of our own. 
