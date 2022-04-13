@@ -411,13 +411,14 @@ $Act 2 Scene 2
 {DESDEMONA}: Enough to rear suspicion's head.
 {CONSTANCE}: Oh no.
 {DESDEMONA}: O yes!
-{CONSTANCE}: Oh well. Whate'er you do don't let him know that you suspect. {DESDEMONA}: Nay, he'll know not that I wot aught. (Aside) Goats and monkeys! [DESDEMONA goes to exit] 
+{CONSTANCE}: Oh well. Whate'er you do don't let him know that you suspect.
+{DESDEMONA}: Nay, he'll know not that I wot aught. (Aside) Goats and monkeys! [DESDEMONA goes to exit] 
 {CONSTANCE}: Boy, Shakespeare really watered her down, eh? … I wish I were more like Desdemona. Next to her I'm just a little wimp. A rodent. Road-kill. Furry tragedy all squashed and steaming on the 401 with "Michelin" stamped all over me. It's true: people've always made a fool of me without my even knowing. Gullible. That's me. Old Connie. Good sport. Big joke. Ha. Just like that time at recess in grade five: a gang of bully girls comes up to me. Their arms are linked. they're chanting as they march, "Hey. Hey. Get outta my way! I just got back from the I.G.A.!" I'm terrified. They pin me down, and force me to eat a dog-tongue sandwich. I now know it was only ham … O, what would Desdemona do to Claude, had she the motive and the cue for passion that I have? She would drown all Queen's with blood, and cleave Claude Night's two typing fingers from his guilty hands. She'd wrap them in a box of choc’lates and present them to Ramona. She'd kill him in cold blood and in blank verse, then smear the ivied walls in scarlet letters spelling "thief"! To think, I helped him use me: a gull, a stooge, a swine adorned with mine own pearls, a sous-chef, nay! a scull'ry maid that slaved to heat hell's kitchen with the baking stench of forty-thousand scalding humble-pies, P Vengeance!!! [DESDEMONA and IAGO enter, sword-fighting, DESDEMONA joins with:] Villainy, villainy, villainy! [CONSTANCE disarms IAGO, knocks him down and is poised to skewer him] May thy pernicious soul rot half a grain a day! [She raises her sword to strike, but DESDEMONA stops her]
 {DESDEMONA}: Hold! [DESDEMONA helps IAGO to his feet. He glares at CONSTANCE, shaken] 'Twas all in sport.
 {CONSTANCE}: Oh.
 {IAGO}: Ay.
 {CONSTANCE}: Gee. I'm sorry. Um — [to IAGO] here's your sword back and everything. [Retreating] Have fun. [Aside] Dear God, I could have murdered that poor man. l saw a flash of red before my eyes. I felt a rush of power through my veins. I tasted iron blood inside my mouth. I loved it! [CONSTANCE faints]
-{DESDEMONA}: If she be false, heaven mocked itself [Holding her sword at IAGO's throat] Wretch, be sure thou prove my friend a villainess! Be sure of it; give me the ocular proof — (IAGO manages to take the Manuscript page from his shirt]
+{DESDEMONA}: If she be false, heaven mocked itself [Holding her sword at IAGO's throat] Wretch, be sure thou prove my friend a villainess! Be sure of it; give me the ocular proof — [IAGO manages to take the Manuscript page from his shirt]
 {IAGO}: Yet be content!
 {DESDEMONA}: Make me to see’t! [IAGO thrusts the page under her nose] What's this?
 {IAGO}: The pedant's fool's cap writ in Turkish code, found by my wife in your underwear drawer! [DESDEMONA releases IAGO]
@@ -427,7 +428,7 @@ $Act 2 Scene 2
 {IAGO}: That's fouler.
 {DESDEMONA}: Fool's cap — confession — fool's cap — to confess then die — first to die, then to confess — [DESDEMONA is about to fall prey to apoplexy when CONSTANCE wakes up and picks something off the hem of DESDEMONAS dress]
 {CONSTANCE}: My Brownie wings! What are they doing here? I thought I threw them in the garb.... age. Oh.
-{DESDEMONA}: [Aside] Sly may be honest yet. I'll try her once in fairness. Then illtifuip her into messes. [DESDEMONA impales the foolscap upon the point of her sword]
+{DESDEMONA}: [Aside] Sly may be honest yet. I'll try her once in fairness. Then Ill chop her into messes. [DESDEMONA impales the foolscap upon the point of her sword]
 {CONSTANCE}: Hey Desdemona! Look what I just found. My Brown Owl wings!
 {IAGO}: [Aside to DESDEMONA] An owl stands for a witch! It is the shape that I Hecate takes at night.
 {DESDEMONA}: I know who thou art. And I saw what thou didst.
@@ -435,7 +436,7 @@ $Act 2 Scene 2
 {IAGO}: The owl's cry! [DESDEMONA points her sword with the foolscap at CONSTANCE’s face]
 {DESDEMONA}: Here is the sword of justice. If this be thine, read the verdict and reveal thyself.
 {CONSTANCE}: It certainly looks like the real McCoy. [CONSTANCE plucks the foolscap off the sword] It is! Page one! I must be getting warm. (Reads) "Thou'rt cold, and Cyprus is too hot for thee. Seek truth now in Verona, Italy; there find a third to make a trinity, where two plus one adds up to one not three." Hm. How strange. [Warp effect]
-{DESDEMONA}: The pedant hath by magic disappeared to fly unto her evil genius, Brown Owl. When she returns with fresh enchantments here, then must the cause of justice claim her life. How shall I kill her Iago? (IAGO hands DESDEMONA the pillow) 
+{DESDEMONA}: The pedant hath by magic disappeared to fly unto her evil genius, Brown Owl. When she returns with fresh enchantments here, then must the cause of justice claim her life. How shall I kill her Iago? [IAGO hands DESDEMONA the pillow]
 
 $Act 3 Scene  1
 
@@ -449,11 +450,14 @@ $Act 3 Scene  1
 {CONSTANCE}: [Aside] One Mona Lisa down, and one to go. [She tackles ROMEO. They fly into the sword fight, knocking TYBALT and MERCUTIO aside. TYBALT and MERCUTIO jump to their feet and immediately pains their swords at CONSTANCE while ROMEO sits on her]
 {MERCUTIO}: Shall I lance the pimple? Or rub the quat to bursting! 
 {TYBALT}: Name the house that whelped thee pup! What kennel loosed thee hence to interfere with honour's reck'ning? 
-{ROMEO}: [To TYBALT and MERCUTIO] Stay! You fright the wretch. Speak, boy ... speak boy. {CONSTANCE}: [Aside] Boy? [A moment of decision. She clears her throat to a more masculine pitch]  From Cyprus washed I here ashore, a roving pedant lad to earn my bread by wit and by this fountain pen, my sword. A stranger here, my name is Constan — tine. I couldn't let you kill each other for, young Juliet and Romeo have wed; and by th'untying of their virgin-knot, have tied new blood betwixt you cousins here. Tybalt, Romeo is your cousin now, in law, and so you fellows should shake hands. [A dangerous pause, then TYBALT turns to ROMEO and embraces him] 
+{ROMEO}: [To TYBALT and MERCUTIO] Stay! You fright the wretch. Speak, boy ... speak boy.
+{CONSTANCE}: [Aside] Boy? [A moment of decision. She clears her throat to a more masculine pitch]  From Cyprus washed I here ashore, a roving pedant lad to earn my bread by wit and by this fountain pen, my sword. A stranger here, my name is Constan — tine. I couldn't let you kill each other for, young Juliet and Romeo have wed; and by th'untying of their virgin-knot, have tied new blood betwixt you cousins here. Tybalt, Romeo is your cousin now, in law, and so you fellows should shake hands. [A dangerous pause, then TYBALT turns to ROMEO and embraces him] 
 {TYBALT}: Cousin Montague!
-{ROMEO}: Kindred Capulet! [MERCUTIO and TYBALT embrace CONSTANCE in turn with:] {TYBALT}: Fortunate harbinger! 
+{ROMEO}: Kindred Capulet! [MERCUTIO and TYBALT embrace CONSTANCE in turn with:]
+{TYBALT}: Fortunate harbinger! 
 {MERCUTIO}: Madcap youth! 
-{ROMEO}: Brave Greek! [ROMEO embraces CONSTANCE, but lingers a little too long; with:] [Aside] Did my heart love till now? Forswear it, nay! For I ne'er saw true beauty till this day! {MERCUTIO}: Now we have put our angry weapons up, let's hie to Mistress Burnbottom's to put up and to sheath our jocund tools of sport. [Lewd Renaissance gestures and laughter throughout the following dreadful jokes] 
+{ROMEO}: Brave Greek! [ROMEO embraces CONSTANCE, but lingers a little too long; with:] [Aside] Did my heart love till now? Forswear it, nay! For I ne'er saw true beauty till this day!
+{MERCUTIO}: Now we have put our angry weapons up, let's hie to Mistress Burnbottom's to put up and to sheath our jocund tools of sport. [Lewd Renaissance gestures and laughter throughout the following dreadful jokes] 
 {TYBALT}: A bawd! And falling apart with'th' pox! Take care - She'll pay thee, and with a French crown too! 
 {MERCUTIO}: Ay, a bald pate, for a little head! 
 {TYBALT}: I'd as lief to pluck a green maid off the street. 
@@ -505,14 +509,16 @@ $Act 3 Scene 2
 {JULIET}: Thou bloody-fingered boy, hast slaughtered him! 
 {ROMEO}: Thou panther-taloned girl, hast rent his shell! 
 {JULIET}: I'll tell my father! 
-{ROMEO}: So will I tell mine! O wherefore did I wive a sniv'lling girl?! [ROMEO exits in tears] {JULIET}: O wherefore married I a stripling boy?! [NURSE calls from within] 
+{ROMEO}: So will I tell mine! O wherefore did I wive a sniv'lling girl?! [ROMEO exits in tears] 
+{JULIET}: O wherefore married I a stripling boy?! [NURSE calls from within] 
 {NURSE}: What Juliet, ladybird, what little maid! 
 {JULIET}:  [Aside] No maid but matron, thus made and unmade. [NURSE enters. She is hot and puffing, and carries a gift-wrapped package] 
 {NURSE}: Another wedding gift for thee my lamb. Beshrew this heat, Verona is ablaze! 'T'will be tomorrow fourteen years ago since thou wert born upon a wave of heat that cooked the country, marry, to an ash. Child look, I have a pretty box for thee. [JULIET doesn't look up] 
 {JULIET}: Say if it take the measure of my corpse? 
 {NURSE}: Nay, 'tis no bigger than a bread chest. 
 {JULIET}: Entomb it with the rest and leave me be, and when thou hast done so, come weep with me, past hope, past care, past help, past tense, O Nurse!!! [JULIET flings herself upon NURSE'S bosom and sobs] 
-{NURSE}: There, there, lamb, thou art too soon made a bride. Was Cupid's loving dart too sharp for thee? Say if Romeo's of unnatural size, to tear [As in "tear drop 'J thee so? Or mayhap, saints forfend, behind his boyish drool there lurks a foaming wolf! A pox on him! Though't be thy wifely load, to bear his married weight, I'll pry him hence, with false chancres for thy nether lips. {JULIET}: Oh Nurse, 'tis none of these! 
+{NURSE}: There, there, lamb, thou art too soon made a bride. Was Cupid's loving dart too sharp for thee? Say if Romeo's of unnatural size, to tear [As in "tear drop 'J thee so? Or mayhap, saints forfend, behind his boyish drool there lurks a foaming wolf! A pox on him! Though't be thy wifely load, to bear his married weight, I'll pry him hence, with false chancres for thy nether lips.
+{JULIET}: Oh Nurse, 'tis none of these! 
 {NURSE}: What is it then? 
 {JULIET}: I die of tedium! 
 {NURSE}: Oh. 
@@ -530,7 +536,7 @@ $Act 3 Scene 2
 
 $Act 3 Scene 3
 
-{CONSTANCE}: I've found him. I've found the Fool. He's skulking around here, carrying a bag full of Manuscript pages. [CONSTANCE lurks apart, as a strangely dressed SERVANT enters with a bag full of foolscap scrolls outwardly identical to the Manuscript pages] [Aside] I suppose I could just ask him . . . no: "When in Verona —" [CONSTANCE pounces on him and pins him down) Name the Author, thou elusive Fool! What fiendish hack is he that scribbled thee and these [Scrolls] and this [This world] unto the light of day?! 
+{CONSTANCE}: I've found him. I've found the Fool. He's skulking around here, carrying a bag full of Manuscript pages. [CONSTANCE lurks apart, as a strangely dressed SERVANT enters with a bag full of foolscap scrolls outwardly identical to the Manuscript pages] [Aside] I suppose I could just ask him . . . no: "When in Verona —" [CONSTANCE pounces on him and pins him down] Name the Author, thou elusive Fool! What fiendish hack is he that scribbled thee and these [Scrolls] and this [This world] unto the light of day?! 
 {SERVANT}: Don't hurt me sir, pray hurt me not and I will talk. 
 {CONSTANCE}: I'm listening. 
 {SERVANT}: My master is the great rich Capulet and he hath writ all that you see. 
@@ -549,23 +555,26 @@ $Act 3 Scene 4
 {JULIET}: [Exiting] So tune I mine, to pitch in sweet duet. 
 {ROMEO}: If only Constantine were here tonight; this feast were better borne in light of him. I feigned a mirthful splashing at the baths, and sought, but could not find him out today. What if he's gone and barked again for Greece? If this be so, I'll to my closet straight, there to forswear all daylight and all food, to mirror thus the wasting of my heart, all shrouded in the dark night of my soul. [Enter TYBALT, masked. ROMEO approaches him from behind] [Aside] No mask can hide that sleek Aegean form. This is my Constant-teen as I am his. [ROMEO places his hand on TYBALT’S bottom. TYBALT whirls about, yanks ROMEO'S eye mask forward, and lets it snap back when he recognizes him] 
 {TYBALT}: Ah, Romeo, 'tis thee my cuz! [TYBALT gives ROMEO a macho slap on the ass and laughs] 
-{ROMEO}: Tybalt! I knew 'twas thee. [ROMEO punches TYBALT , jock-like, on the arm. The friendly brutality goes on until ROMEO sees CONSTANCE enter, wearing a stupid Mouse half-mask. I'll pummel thee to pulp anon, my cuz, but now must I put on the gentle host. [ROMEO leaves TYBALT and cautiously approaches CONSTANCE. TYBALT exits.] Constantine? 
+{ROMEO}: Tybalt! I knew 'twas thee. [ROMEO punches TYBALT , jock-like, on the arm. The friendly brutality goes on until ROMEO sees CONSTANCE enter, wearing a stupid Mouse half-mask.] I'll pummel thee to pulp anon, my cuz, but now must I put on the gentle host. [ROMEO leaves TYBALT and cautiously approaches CONSTANCE. TYBALT exits.] Constantine? 
 {CONSTANCE}: Romeo? 
 {ROMEO}: Ay! 
-{CONSTANCE}: Hi. [ROMEO embraces CONSTANCE warmly, taking her off guard] Oh. [Extricating herself] Heh. [ROMEO gazes into her eyes] Um. How do you like being married? {ROMEO}: Speak not of Juliet, 'tis thee I love. 
+{CONSTANCE}: Hi. [ROMEO embraces CONSTANCE warmly, taking her off guard] Oh. [Extricating herself] Heh. [ROMEO gazes into her eyes] Um. How do you like being married?
+{ROMEO}: Speak not of Juliet, 'tis thee I love. 
 {CONSTANCE}: What? [Romeo drops to one knee and seizes her hand] 
 {ROMEO}: O Constantine, O emperor of my heart! It is my sex that is thine enemy. Call me but love, and I’ll be new endowed. 
 {CONSTANCE}: It isn't that — good grief, get up. 
 {ROMEO}: Then love me! [He jumps up to kiss her. CONSTANCE escapes] 
 {CONSTANCE}: No, please, I — I'm not that kind of boy. 
 {ROMEO}: What kind of boy? 
-{CONSTANCE}: The kind that can just hop right into bed with any Tom or Dick or . . . Romeo {ROMEO}: Where be these rivals, Tom and Dick?! Are their sweet lips more to thy taste than mine? 
+{CONSTANCE}: The kind that can just hop right into bed with any Tom or Dick or . . . Romeo
+{ROMEO}: Where be these rivals, Tom and Dick?! Are their sweet lips more to thy taste than mine? 
 {CONSTANCE}:  Oh no, I… suspect that you're beyond compare. 
 {ROMEO}: Then kiss me now and prove suspicion true. Surrender unto Romeo thy lips, and let him enter at those ruby gates, forever barred against both Tom and Dick. 
 {CONSTANCE}: [About to yield] Oh my. [Enter TYBALT, jovial, drinking a Coors Light] 
 {TYBALT}: [Aside] I'm told the Greek boy, Constantine, doth feast with us tonight. [Sees CONSTANCE] Ah. [ROMEO kisses CONSTANCE 's neck] [Aside] O! What, an Hellenic deviant?! O fie! 
 {CONSTANCE}: Please, Romeo, you don't understand, I can't do this, I'm not — I'm — way too old for you! 
-{ROMEO}: A maiden blush bepaints thy hairless cheek. [He strokes her check] Eternal springs the fountain of thy youth; I'd quench myself at thy Priapic font. [He kisses her neck] {CONSTANCE}: O . . . Romeo… 
+{ROMEO}: A maiden blush bepaints thy hairless cheek. [He strokes her check] Eternal springs the fountain of thy youth; I'd quench myself at thy Priapic font. [He kisses her neck]
+{CONSTANCE}: O . . . Romeo… 
 {TYBALT}: [Aside] And dares this mockery of manhood bent, come hither, covered with an antic face, to fleer and lisp at our solemnity? 
 {CONSTANCE}: Romeo, please, I know your family — they'll be very upset. 
 {ROMEO}: Boy, what love can do, that dares love attempt. Therefore my kinsmen are no stop to me. 
@@ -579,30 +588,36 @@ $Act 3 Scene 4
 {CONSTANCE}: [Awestruck] Juliet? 
 {JULIET}: Ay. 
 {ROMEO}: Juliet, this be Constantine, the Greek blind Cupid's servant, who unveiled our love for all the world to see. 
-{JULIET}: Oh. Thanks. [Aside] The Greek hath taught not just the world to see, but also me. Would I were blind again. [CONSTANCE removes her mask and extends her hand] {CONSTANCE}: I'm truly thrilled to meet you, Juliet. 
+{JULIET}: Oh. Thanks. [Aside] The Greek hath taught not just the world to see, but also me. Would I were blind again. [CONSTANCE removes her mask and extends her hand]
+{CONSTANCE}: I'm truly thrilled to meet you, Juliet. 
 {JULIET}: [Aside] Hail, Roman Cupid that hath heard my cries, and sent Greek Eros to benight mine eyes! [JULIET takes CONSTANCE'S hand and does not release it] [To ROMEO] Romeo, a man doth steal thy horse within. [Exit ROMEO, alarmed. Music. JULIET leads CONSTANCE in a dance throughout the following dialogue] Romeo spake of thee as pedant wise. 
 {CONSTANCE}: I wouldn't say I'm really all that wise. I have done lots of homework on you, though. For years I've sought to penetrate your source, and dreamt of meeting you a thousand times -
-{JULIET}: Awake. Or let me share thy sleep of dreams. I'd have thee penetrate my secret source, and know me full as well and deep as thou dost know thyself O dreamer, Constantine. {CONSTANCE}: There must be something in Verona's air; I feel like half my years have dropped away. 
+{JULIET}: Awake. Or let me share thy sleep of dreams. I'd have thee penetrate my secret source, and know me full as well and deep as thou dost know thyself O dreamer, Constantine.
+{CONSTANCE}: There must be something in Verona's air; I feel like half my years have dropped away. 
 {JULIET}: The air is redolent with hearts afire; their flames all licking at thy new-blown lip, consume thy tongue to spark of love alone. 
 {CONSTANCE}: Wow. [JULIET gives a little laugh. CONSTANCE giggles] May I ask you something? 
 {JULIET}: Anything. 
 {CONSTANCE}: You're the essence of first love — of beauty that will never fade, of passion that will never die. Are you afraid of growing old? 
 {JULIET}: No one may remain forever young. We change our swaddling clothes for funeral shrouds, and in between is one brief shining space, where love may strike by chance, but only death is sure. 
 {CONSTANCE}: What happens though, if love itself should die? 
-{JULIET}: When love goes to its grave before we do, then find another love for whom to die, and swear to end life first when next we love. [Enter TYBALT and ROMEO from different places] {ROMEO}: [Aside] I rode not hither on a horse tonight! 
+{JULIET}: When love goes to its grave before we do, then find another love for whom to die, and swear to end life first when next we love. [Enter TYBALT and ROMEO from different places]
+{ROMEO}: [Aside] I rode not hither on a horse tonight! 
 {TYBALT}: [Aside re CONSTANCE] O villain, that would plunder shirt and skirt! 
 {ROMEO}: [Aside re CONSTANCE] How swingst thou now, capricious pendulum! 
 {TYBALT}: [Aside re CONSTANCE] Now, by the stock and honour of my kin, to strike him dead, I hold it not a sin. 
 {ROMEO}: [Aside] Then let a bodice be my winding sheet; I'll wear a woman's gown until I die, sith it's a piece of skirt that likes his eye! [JULIET and CONSTANCE dance by. ROMEO cuts in and continues the dance with CONSTANCE] 
-{JULIET}: [Aside] I now perceive the slant of Constantine’s desire. He looks to match his stick to light his fire. And since he savours a two legged pose, I'll into Romeo's closet and steal hose! {TYBALT}: [Aside] I will withdraw; but this intrusion shall, now seeming sweet, convert to bittrest gall. [TYBALT crushes his Coors Light can in his fist, tosses it at CONSTANCE’S feet, and exits. CONSTANCE pauses in her dance with ROMEO, picks up the can, and recognizes it] 
+{JULIET}: [Aside] I now perceive the slant of Constantine’s desire. He looks to match his stick to light his fire. And since he savours a two legged pose, I'll into Romeo's closet and steal hose!
+{TYBALT}: [Aside] I will withdraw; but this intrusion shall, now seeming sweet, convert to bittrest gall. [TYBALT crushes his Coors Light can in his fist, tosses it at CONSTANCE’S feet, and exits. CONSTANCE pauses in her dance with ROMEO, picks up the can, and recognizes it] 
 {JULIET}: [Aside] Thou pretty boy, I will ungreek thee yet [Intercepting CONSTANCE] If I profane with my unworthiest hand—
 {ROMEO}: Hold! I saw him first. 
 {JULIET}: Thou wouldst corrupt him. 
-{ROMEO}: Sayst thou?! Thou that bedded the first doublet to o'erperch thine orchard walls? {JULIET}: Thou caitiff! I sicken of thy blubb'ring boyish charm. 
+{ROMEO}: Sayst thou?! Thou that bedded the first doublet to o'erperch thine orchard walls?
+{JULIET}: Thou caitiff! I sicken of thy blubb'ring boyish charm. 
 {ROMEO}: Thou'rt in the green-eyed clutch of envy, sweet. 
 {JULIET}: "Gather ye rosebuds while ye may," Romeo, for with each new lust, thou creepeth close unto the aged day when soft moist lip and dewy eye convert to senile rheum. 
 {ROMEO}: Thinkst thou to leave a lovely corpse my dear, when even now the crows have footed it in merry measure all about thine eyes? 
-{JULIET}: Oh! I shall tell my father of this insult! [They are both on the verge of passionate tears] {ROMEO}: Be thou assured my father will hear of it! 
+{JULIET}: Oh! I shall tell my father of this insult! [They are both on the verge of passionate tears]
+{ROMEO}: Be thou assured my father will hear of it! 
 {CONSTANCE}: You kids, now that's enough, just settle down, involving family here will make things worse. 
 {JULIET}: [Weeping] I wish I were dead! 
 {ROMEO}: [Weeping] I wish I had ne'er been born! 
@@ -619,20 +634,24 @@ $Act 3 Scene 5
 {JULIET}: l know not how to tell thee who I am. My sex, dear boy, is hateful to myself because it is an enemy to thee; therefore I wear tonight, this boyish hose. 
 {CONSTANCE}: Juliet? What are you doing down there? How on earth did you get into the orchard? 
 {JULIET}: With love's light wings did I o’erperch – 
-{CONSTANCE}: I see. I'm sorry Juliet, it's not to be, I'm not at all the man you think I am. {JULIET}: I wot well what thou art, and yet I love. 
+{CONSTANCE}: I see. I'm sorry Juliet, it's not to be, I'm not at all the man you think I am.
+{JULIET}: I wot well what thou art, and yet I love. 
 {CONSTANCE}: You do? 
 {JULIET}: Ay. 
 {CONSTANCE}: You mean you know my true identity? 
-{JULIET}: Indeed. Thou art a deviant of Greece. O Constantine! O wherefore art thou bent? {CONSTANCE}: Shshshsh! Good heavens, keep your voice down please. 
+{JULIET}: Indeed. Thou art a deviant of Greece. O Constantine! O wherefore art thou bent?
+{CONSTANCE}: Shshshsh! Good heavens, keep your voice down please. 
 {JULIET}: Deny thy preference and refuse thy sex; Or, if thou wilt not, be but sworn my love, and henceforth never will I be a girl. 
 {CONSTANCE}: I'm not . . . a deviant, for heaven's sake.
-{JULIET}: Not deviant? Art thou then a timid virgin? Dear boy, I envy thee thy bliss to come. {CONSTANCE}: I may be celibate, but I'm not exactly a virgin. 
+{JULIET}: Not deviant? Art thou then a timid virgin? Dear boy, I envy thee thy bliss to come.
+{CONSTANCE}: I may be celibate, but I'm not exactly a virgin. 
 {JULIET}: Tut, boyish bluster. Hast thou tasted woman? 
 {CONSTANCE}: No! 
 {JULIET}: Then are thy vestal senses all intact. O let Juliet initiate thy budding taste of woman's dewy rose. Learn how the rose becomes a sea of love: come part the waves and plumb Atlantic depths. I'll guide thee to the oyster's precious pearl ... we'll seek out wat'ry caves for glist'ning treasure, spelunk all night until we die of pleasure. 
 {CONSTANCE}: I'm not into that sort of thing. 
 {JULIET}: Then claim another conduit for thy use. 
-{CONSTANCE}: Heavenly days, what's come over you?! You're supposed to be all innocence. {JULIET}: The time for innocence is sped! I'll love once more before I'm dead! 
+{CONSTANCE}: Heavenly days, what's come over you?! You're supposed to be all innocence.
+{JULIET}: The time for innocence is sped! I'll love once more before I'm dead! 
 {CONSTANCE}: Who said anything about dying? You're only fourteen years old. 
 {JULIET}: Thirteen! Tomorrow will I be fourteen. 
 {CONSTANCE}: You will? So will I! I mean, be a year older. 
@@ -654,7 +673,8 @@ $Act 3 Scene 5
 {CONSTANCE}: No. I refuse to say that I felt love for someone who did grind my mind to pulp, and lined a gilded bird-cage with the dust. He played the parrot: I fed him great lines, and he pooped on my head. 
 {JULIET}: Unrequited love. 
 {CONSTANCE}: It certainly was unrequited: I never pooped back. I could kick myself. 
-{JULIET}: He crushed thy heart as 't'were a pomegranate underfoot and thou didst kiss that foot. {CONSTANCE}: (Starting to give in] Yes. 
+{JULIET}: He crushed thy heart as 't'were a pomegranate underfoot and thou didst kiss that foot.
+{CONSTANCE}: (Starting to give in] Yes. 
 {JULIET}: And doted on his every whim. 
 {CONSTANCE}: Yes. 
 {JULIET}: And idolized him from the start. 
@@ -662,7 +682,8 @@ $Act 3 Scene 5
 {JULIET}: Tell heaven! 
 {CONSTANCE}: [Meekly to heaven] I loved Claude Night. Love. 
 {JULIET}: Declaim! 
-{CONSTANCE}: Love. Love! I love that shit, Claude Night! Amour — at-first-sight, in plain view, a coup de foudre, la vie en soir, amo, amas, amat!!! There. I've said it. So what do I do now? {JULIET}: Impale thy cleaved heart upon a sword! 
+{CONSTANCE}: Love. Love! I love that shit, Claude Night! Amour — at-first-sight, in plain view, a coup de foudre, la vie en soir, amo, amas, amat!!! There. I've said it. So what do I do now?
+{JULIET}: Impale thy cleaved heart upon a sword! 
 {CONSTANCE}: Yes O yes!!! I wish I had the nerve to do it right in front of everyone while standing in the cafeteria line!; to play a swan-song on my arteries, anoint the daily special with my veins! 
 {JULIET}: [Offering dagger] Stab thyself first, then will I stab mine! 
 {CONSTANCE}: Thanks. That's very sweet of you, Juliet. But not just now. I have to find the Author first; or else the Fool to lead me to the bard. 
@@ -676,13 +697,15 @@ $Act 3 Scene 5
 {CONSTANCE}: Who is he? What's his name? 
 {JULIET}: Wouldst love me if I told thee who it be? 
 {CONSTANCE}: Until I pass into another world.
-{JULIET}: Mount unto my closet for a tryst. I'll trade the name, and claim of thee one kiss. {CONSTANCE}: Okay. [JULIET goes to exit] Hey, wait up! 
+{JULIET}: Mount unto my closet for a tryst. I'll trade the name, and claim of thee one kiss.
+{CONSTANCE}: Okay. [JULIET goes to exit] Hey, wait up! 
 {JULIET}: I dare not risk discovery in thy company; we must go severally. Dost thou espy yon boneyard? 
 {CONSTANCE}: Yes, I see it. 
 {JULIET}: My balcony lies three courtyards to the east of that unhallowed ground. 
 {CONSTANCE}: Why is it unhallowed? 
 {JULIET}: For that the bones of actors, whores and pedants lie there buried and condemned. [JULIET blows a kiss and exits] 
-{CONSTANCE}: Thanks. [Exit CONSTANCE. Enter ROMEO, furtive, in Juliet's clothing] {ROMEO}: [Aside] I dare not take the front gate for my leave; my father must not see my woman's weeds. [Exit. Softly, from off] Constantine ...it is I, Romiet…
+{CONSTANCE}: Thanks. [Exit CONSTANCE. Enter ROMEO, furtive, in Juliet's clothing]
+{ROMEO}: [Aside] I dare not take the front gate for my leave; my father must not see my woman's weeds. [Exit. Softly, from off] Constantine ...it is I, Romiet…
 
 
 $Act 3 Scene 6
@@ -701,7 +724,9 @@ Holy Mary, Mother of God! —
 {CONSTANCE}: You're it? 
 {GHOST}: Alas poor fool, you know me well. 
 {CONSTANCE}: I do? Don't speak in riddles, tell me what you mean. 
-{GHOST}: I mean you script a woman, and a fool it's not a man you seek, the Manuscript ... {CONSTANCE}: Do you know something of the Manuscript?! Do you know who the Author is? {GHOST}: A lass. 
+{GHOST}: I mean you script a woman, and a fool it's not a man you seek, the Manuscript …
+{CONSTANCE}: Do you know something of the Manuscript?! Do you know who the Author is?
+{GHOST}: A lass. 
 {CONSTANCE}: I know, "alas, alas poor Yorick", so?! Who wrote this thing? 
 {GHOST}: A beardless hard. 
 {CONSTANCE}: A boy? 
@@ -717,7 +742,8 @@ Holy Mary, Mother of God! —
 [Exit GHOST. Enter TYBALT] 
 {TYBALT}: Hermaphrodite! 
 {CONSTANCE}: Who, me? Oh, hi Tybalt. 
-{TYBALT}: Greek boy! The love I bear thee can afford no better term than this: thou art a villain. {CONSTANCE}: There must be some mistake. Therefore farewell. 
+{TYBALT}: Greek boy! The love I bear thee can afford no better term than this: thou art a villain. 
+{CONSTANCE}: There must be some mistake. Therefore farewell. 
 [CONSTANCE tries to exit] 
 {TYBALT}: 'Boy this shall not excuse the injuries that thou hast done me; therefore turn and draw. 
 {CONSTANCE}: No please! I haven't done anything! 
@@ -758,7 +784,8 @@ $Act 3 Scene 7
 {CONSTANCE}: What?! I've never been there in my life. 
 {JULIET}: O most forbidden love of all! 
 {CONSTANCE}: Oh no. 
-{JULIET}: Unsanctified desire, more tragic far than any star-crossed love 'twixt boy and girl! {CONSTANCE}: Now wait. 
+{JULIET}: Unsanctified desire, more tragic far than any star-crossed love 'twixt boy and girl! 
+CONSTANCE}: Now wait. 
 {JULIET}: Once more am I a virgin maid. O take me to thine island's curved shore, and lay me on the bosom of the sand; there sing to me the psalm that Sappho wrote; her hymn to love will be our Song of Songs. 
 {CONSTANCE}: I'm not up on Sappho. 
 {JULIET}: Then we'll compose an epic of our own. 
@@ -767,8 +794,10 @@ $Act 3 Scene 7
 {CONSTANCE}: She's married now and can't recall a thing. 
 {JULIET}: A portrait hangs unfinished in thy heart. 
 {CONSTANCE}: I know I felt bereft. But that was then. 
-{JULIET}: Make ready now to paint me in her stead. So mix and frame the colours on this bed. {CONSTANCE}: I don't know how. 
-{JULIET}: Be thou the mirror pool of my desire: reflect my love as thou dost ape my form. {CONSTANCE}: Thou wouldst distort the pool, thy looking-glass, with words of love like careless pebbles tossed; the rippling waters tell a loving lie, and show my face to thee as 't'were thine own. Still waters would reflect an aged crone. 
+{JULIET}: Make ready now to paint me in her stead. So mix and frame the colours on this bed.
+{CONSTANCE}: I don't know how. 
+{JULIET}: Be thou the mirror pool of my desire: reflect my love as thou dost ape my form.
+{CONSTANCE}: Thou wouldst distort the pool, thy looking-glass, with words of love like careless pebbles tossed; the rippling waters tell a loving lie, and show my face to thee as 't'were thine own. Still waters would reflect an aged crone. 
 {JULIET}: More beauty in thy testament of years, than in the face of smooth and depthless youth. Nay, lovelier by far, now that I see the sculpting hand of time upon thy brow; O look on me with eyes that looked on life before I e'er was born an infant blind. O touch me with those hands that held thy quill before I learned to read and write my name. And thus with every look and touch, entwine my poor young thread into thy richer weave. 
 {CONSTANCE}: Okay. 
 {JULIET}: Tomorrow will they find one corpse entwined, when, having loved each other perfectly, our deaths proclaim one night, eternity. 
@@ -794,7 +823,8 @@ $Act 3 Scene 7
 {CONSTANCE}: Kill me tomorrow!
 {DESDEMONA}: It is too late [Pillow down] 
 {JULIET}: [Exiting] Help! Murther! [CONSTANCE, her head still beneath the pillow, reaches under her shirt, yanks off the diamond necklace, and holds its broad golden clasp before DESDEMONA 's eyes] 
-{DESDEMONA}: Ah ha! [Reading inscription] "For gentle Desdemona, upon thy birthday, love Othello." [CONSTANCE'S hands drop to the bed and go limp] [Smiling] Oh. It is my birthday today. I had forgot. [To CONSTANCE] I'm sorry. [Suddenly remembering] Constance! [Whips the pillow up] not dead? Not yet quite dead? [A beat, then CONSTANCE takes a huge gasp of air] {CONSTANCE}: Happy Birthday. [CONSTANCE takes the pillow from DESDEMONA and whacks her with it, knocking her down] 
+{DESDEMONA}: Ah ha! [Reading inscription] "For gentle Desdemona, upon thy birthday, love Othello." [CONSTANCE'S hands drop to the bed and go limp] [Smiling] Oh. It is my birthday today. I had forgot. [To CONSTANCE] I'm sorry. [Suddenly remembering] Constance! [Whips the pillow up] not dead? Not yet quite dead? [A beat, then CONSTANCE takes a huge gasp of air]
+{CONSTANCE}: Happy Birthday. [CONSTANCE takes the pillow from DESDEMONA and whacks her with it, knocking her down] 
 {TYBALT}: [Off] Greek boy! 
 {CONSTANCE}: Oh no, it's Tybalt. Pretend I'm dead, and tell Juliet to meet us at the Crypt. [CONSTANCE lies back on the bed] 
 {DESDEMONA}: Who? 
@@ -885,7 +915,7 @@ $Act 3 Scene The Epilogue
 
 {CHORUS}: The alchemy of ancient hieroglyphs has permeated the unconscious mind of Constance L. and manifested form, where there was once subconscious dreamy thotiglii The best of friends and foes exist within, where archetypal shadows come to light and doff their monster masks when we say "boo" Where mingling and unmingling opposites performs a wondrous feat of alchemy, and spins grey matter, into precious gold. 
 [Lights and music. The company dances]
-`;
+`
 
 export default function process(text): ScriptElement[] {
     return extractSegments(text);
