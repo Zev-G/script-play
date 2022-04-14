@@ -3,7 +3,9 @@
 </script>
 
 <span class="character-name">
-    {name}:
+    {#if name.length != 0}
+        {name}:
+    {/if}
 </span>
 
 <style>

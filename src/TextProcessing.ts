@@ -880,7 +880,7 @@ $Act 3 Scene 9
 {DESDEMONA}: She hath naught to live for here.
 {JULIET}: But everything for which to die.
 {DESDEMONA}: In Cyprus hath she that for which to kill. [To CONSTANCE] Return with me to Cyprus; take this sword, and dip it deep to drink lago's gorge. [DESDEMONA puts the sword in CONSTANCE'S hand]
-{JULIET}: Remain! To one blade, we'll two hearts afix, then sail together 'cross the River Styx. [JULIET puts the lager in CONSTANCE's other hand]
+{JULIET}: Remain! To one blade, we'll two hearts afix, then sail together 'cross the River Styx. [JULIET puts the dagger in CONSTANCE's other hand]
 {DESDEMONA}: Nay, come and kill.
 {JULIET}: Nay, stay and die.
 {DESDEMONA}: Nay come!
@@ -909,12 +909,18 @@ $Act 3 Scene 9
 {CONSTANCE}: "The Fool and the Author are one and the same"...
 {GHOST}: Ha-ha-ha-ha-ha!
 {CONSTANCE}: That's me. I'm the Author! [A golden hand rises up through the surface of the slab upon which Constance lay. The hand holds a scrolled Manuscript page. CONSTANCE takes the page and unscrolls it] It says… "For those who have the eyes to see: Take care — for what you see, just might be thee?” [She looks at DESDEMONA and JULIET] "Where two plus one adds up to one, not three." Goodnight Desdemona. Good morning Juliet. 
-{DESDEMONA & JULIET}: Happy Birthday Constance. [Final warp]
+{DESDEMONA & JULIET}: Happy Birthday Constance.
+{}: [Final warp: Lights flicker, sound effects create rustling/chaotic noise. During this transition scene, CONSTANCE’s office turns back to normal in its entirety.]
+{}: [CONSTANCE is alone in her office at Queen’s. Both she and the office are precisely as they were at the onset of the first warp at the end of Act I: the phone receiver dangles by its cord, and CONSTANCE is leaning over with just her - hatless - head in the wastebasket. She straightens up and looks about her, a little disoriented. She tentatively touches herself as if to confirm her reality, bringing one hand up to her head. She feels her pen behind her ear, removes it, and looks at it. It has turned to solid gold, feather and all]
 
 $Act 3 Scene The Epilogue
 
-{CHORUS}: The alchemy of ancient hieroglyphs has permeated the unconscious mind of Constance L. and manifested form, where there was once subconscious dreamy thotiglii The best of friends and foes exist within, where archetypal shadows come to light and doff their monster masks when we say "boo" Where mingling and unmingling opposites performs a wondrous feat of alchemy, and spins grey matter, into precious gold. 
-[Lights and music. The company dances]
+{CHORUS}: The alchemy of ancient hieroglyphs has permeated the unconscious mind of Constance L. and manifested form, where there was once subconscious dreamy thought. The best of friends and foes exist within, where archetypal shadows come to light and doff their monster masks when we say “boo”. Where mingling and unmingling opposites performs a wondrous fear of alchemy, and spins grey matter, into precious gold. [Lights and music.
+{}: [Stage lights turn off. 2 people come and take the desk and one person comes to take the wastebasket. CONSTANCE grabs any miscellaneous items. More people might be needed to grab other props if needed; TBA.]
+{}: [Lights turn back on, people are in place for dance. Begin dance.]
+{}: [After dace, The actors re-enter with gold-wrapped boxes; birthday presents for CONSTANCE whom everyone crowds around. The spotlight is focused on her and everyone else is caught in the excess light. Just before everyone speaks, the light changes to white (regular) and CONSTANCE looks up at the audience with a smile (staring straight ahead.) She is happily shocked that everyone has joined her world.]
+{EVERYONE}: Happy birthday Constance!
+{}: [Lights slam off with dramatic pound sound effect]
 `
 
 export default function process(text): ScriptElement[] {
@@ -982,7 +988,7 @@ function processLine(text: string): Line {
         throw new Error(`Failed to find character in line ${text}`);
     }
     const character = text.substring(charStart + 1, charEnd);
-    if (!character.match(/[A-z]+/)) {
+    if (!character.match(/[A-z]+/) && character.length != 0) {
         throw new Error(`Character ${character} contains characters other than letters`);
     }
     const line = text.substring(colon + 1);
