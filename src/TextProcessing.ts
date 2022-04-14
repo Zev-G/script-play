@@ -666,7 +666,7 @@ $Act 3 Scene 5
 {JULIET}: So? 
 {CONSTANCE}: I don't believe in love-at-first-sight. 
 {JULIET}: Say then that thou dost not believe in air! Or in the solid ground on which we tread! Nay, love's a force of nature, can’t be stopped; the lightning waiteth not upon my thought to thus endow it bright; it doth but light! 
-{CONSTANCE}: Nay, love's a bond of servitude; a trap that sly deceptors lay for fools – fools they use then throw away, or trade in like a lib'ry book they've read, then lost, then found beneath the bed all coffee-stained and dust-bunnied, all dog-eared and dust-bunnied.
+{CONSTANCE}: Nay, love's a bond of servitude; a trap that sly deceptors lay for fools – fools they use then throw away, or trade in like a lib'ry book they've read, then lost, then found beneath the bed all coffee-stained and dust-bunnied, all dog-eared, thumbed and overdue.
 {JULIET}: Thou art one that loved and lost.
 {CONSTANCE}: Well. I will admit I had a crush —delayed post-adolescent fantasy. 
 {JULIET}: Seek not to excuse thy one true love. 
@@ -777,7 +777,7 @@ $Act 3 Scene 7
 {JULIET}: And I cannot rejoice upon thy sword. I'll die upon my dagger, so! [JULIET takes a dagger and winds up to stab herself. CONSTANCE intervenes] 
 {CONSTANCE}: No! [CONSTANCE wrests the dagger from JULIET, flings it over the balcony, and pins JULIET down] Now listen here. There's something you don't know. For safety did I first secrete my sex. I mean! - I'll have to trust you with the truth. My name is Constance. I'm a woman. 
 {JULIET}: Oh. 
-{CONSTANCE}: That's right. So that's chat. 
+{CONSTANCE}: That's right. So that's that. 
 {JULIET}: And art thou of Cyprus? 
 {CONSTANCE}: Not originally. 
 {JULIET}: Then art thou of Lesbos?! 
