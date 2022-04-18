@@ -1,6 +1,7 @@
 export const script =
 `
 $Act 1 The Prologue
+{}: [Constance’s office at Queen’s University, Kingston. The CHORUS enters Constance’s office by a route that suggests he is not bound by the reality of the office walls. He lights a cigarette and speaks the prologue.]
 {CHORUS}: What’s alchemy? The hoax of charlatans? Or mystic quest for stuff of life itself: eternal search for the Philosopher’s Stone, where mingling and unmingling opposites, transforms base metals into precious gold. Hence, scientific metaphor of self: divide the mind’s opposing archetypes — if you possess the courage for the task — invite them from the shadows to the light; unite these lurking shards of broken glass into a mirror that reflects one soul. And in this merging of unconscious selves, there lies the mystic “marriage of true minds.”
 [He takes the discarded objects from the wastebasket and replaces them on the desk as:]
 Swift Mercury, that changing element, portrayed as Gemini, hermaphrodite and twin, now steers the stars of Constsance Ledbelly, and offers her a double-edged re-birthday.
@@ -915,12 +916,14 @@ $Act 3 Scene 9
 
 $Act 3 Scene The Epilogue
 
+{}: [Enter the CHORUS holding the Ghost’s skeleton mask.]
 {CHORUS}: The alchemy of ancient hieroglyphs has permeated the unconscious mind of Constance L. and manifested form, where there was once subconscious dreamy thought. The best of friends and foes exist within, where archetypal shadows come to light and doff their monster masks when we say “boo”. Where mingling and unmingling opposites performs a wondrous fear of alchemy, and spins grey matter, into precious gold. [Lights and music.
 {}: [Stage lights turn off. 2 people come and take the desk and one person comes to take the wastebasket. CONSTANCE grabs any miscellaneous items. More people might be needed to grab other props if needed; TBA.]
 {}: [Lights turn back on, people are in place for dance. Begin dance.]
-{}: [After dace, The actors re-enter with gold-wrapped boxes; birthday presents for CONSTANCE whom everyone crowds around. The spotlight is focused on her and everyone else is caught in the excess light. Just before everyone speaks, the light changes to white (regular) and CONSTANCE looks up at the audience with a smile (staring straight ahead.) She is happily shocked that everyone has joined her world.]
+{}: [After dance, The actors re-enter with gold-wrapped boxes; birthday presents for CONSTANCE whom everyone crowds around. The spotlight is focused on her and everyone else is caught in the excess light. Just before everyone speaks, the light changes to white (regular) and CONSTANCE looks up at the audience with a smile (staring straight ahead.) She is happily shocked that everyone has joined her world.]
 {EVERYONE}: Happy birthday Constance!
 {}: [Lights slam off with dramatic pound sound effect]
+
 `
 
 export default function process(text): ScriptElement[] {
