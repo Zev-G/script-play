@@ -133,8 +133,7 @@ $Act 1 Scene 1
 {CLAUDE}: I am, pet. I've decided to take that lecturing post at Oxford myself. Even if it does fall somewhat short of a challenge.
 {CONSTANCE}: Oh. I thought you might recommend someone less distinguished, say an Assistant Professor, for that job.
 {CLAUDE}: That's what I thought too until Ramona won the Rhodes. Now it's Oxford for the both of us, eh what?
-{CONSTANCE}: What about — Will I still work for you?
-{CLAUDE}: I'm afraid not love. I made full Professor today, so the pressure's off.
+{CONSTANCE}: What about — Will I still work for you? I'm afraid not love. I made full Professor today, so the pressure's off.
 {CONSTANCE}: Congratulations.
 {CLAUDE}: Not to worry. I've lined up a lovely post for you in Regina.
 {CONSTANCE}: Thanks.
@@ -151,8 +150,6 @@ $Act 1 Scene 1
 
 $Act 2 Scene 1
 
-{}: [Othello’s Citadel at Cyprus.]
-{}: [OTHELLO and IAGO reprise the end of the "Handkerchief Scene." Desdemona's "strawberry-spotted" handkerchief hangs out the back of IAGO's hose.]
 {IAGO}: *Tell me but this: Have you not sometimes seen a handkerchief spotted with strawberries in your wife’s hand?*
 {OTHELLO}: *I gave her such a one; ‘twas my first gift.*
 {IAGO}: *I know not that; but such a handkerchief — I am sure it was your wife’s — did I today see Cassio wipe his beard with.*
@@ -919,15 +916,13 @@ $Act 3 Scene 9
 
 $Act 3 Scene The Epilogue
 
-{}: [Enter the CHORUS holding the Ghost’s skeleton mask.]
 {CHORUS}: The alchemy of ancient hieroglyphs has permeated the unconscious mind of Constance L. and manifested form, where there was once subconscious dreamy thought. The best of friends and foes exist within, where archetypal shadows come to light and doff their monster masks when we say “boo”. Where mingling and unmingling opposites performs a wondrous fear of alchemy, and spins grey matter, into precious gold. [Lights and music.
 {}: [Stage lights turn off. 2 people come and take the desk and one person comes to take the wastebasket. CONSTANCE grabs any miscellaneous items. More people might be needed to grab other props if needed; TBA.]
 {}: [Lights turn back on, people are in place for dance. Begin dance.]
-{}: [After dance, The actors re-enter with gold-wrapped boxes; birthday presents for CONSTANCE whom everyone crowds around. The spotlight is focused on her and everyone else is caught in the excess light. Just before everyone speaks, the light changes to white (regular) and CONSTANCE looks up at the audience with a smile (staring straight ahead.) She is happily shocked that everyone has joined her world.]
+{}: [After dace, The actors re-enter with gold-wrapped boxes; birthday presents for CONSTANCE whom everyone crowds around. The spotlight is focused on her and everyone else is caught in the excess light. Just before everyone speaks, the light changes to white (regular) and CONSTANCE looks up at the audience with a smile (staring straight ahead.) She is happily shocked that everyone has joined her world.]
 {EVERYONE}: Happy birthday Constance!
 {}: [Lights slam off with dramatic pound sound effect]
-
-`;
+`
 
 export default function process(text): ScriptElement[] {
     return extractSegments(text);
